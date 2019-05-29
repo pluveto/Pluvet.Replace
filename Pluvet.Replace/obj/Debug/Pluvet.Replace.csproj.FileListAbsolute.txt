@@ -1,0 +1,10 @@
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\bin\Debug\Pluvet.Replace.exe.config
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\bin\Debug\Pluvet.Replace.exe
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\bin\Debug\Pluvet.Replace.pdb
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\obj\Debug\Pluvet.Replace.csprojAssemblyReference.cache
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\obj\Debug\Pluvet.Replace.MainForm.resources
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\obj\Debug\Pluvet.Replace.Properties.Resources.resources
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\obj\Debug\Pluvet.Replace.csproj.GenerateResource.cache
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\obj\Debug\Pluvet.Replace.csproj.CoreCompileInputs.cache
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\obj\Debug\Pluvet.Replace.exe
+A:\src\cs\Pluvet.Replace\Pluvet.Replace\obj\Debug\Pluvet.Replace.pdb
